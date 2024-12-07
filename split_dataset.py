@@ -64,8 +64,8 @@ validation_dir = "dataset/val"
 test_dir = "dataset/test"
 
 # Split ratios
-train_ratio = 0.4
-validation_ratio = 0.3
+train_ratio = 0.7
+validation_ratio = 0
 test_ratio = 0.3
 
 # Gather all .txt and corresponding image paths
