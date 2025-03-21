@@ -1,2 +1,7 @@
 
 app/
+
+dataset/
+yolov5/
+.idea
+app/
